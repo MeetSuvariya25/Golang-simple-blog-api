@@ -1,1 +1,0 @@
-# Golang-simple-blog-api
